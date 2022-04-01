@@ -107,6 +107,6 @@ module.exports = {
         },
       },
     ],
-    ["sitemap", { hostname: "https://seo-jio.github.io/TIL" }],
+    ["sitemap", { hostname: "https://seo-jio.github.io/vue-TIL" }],
   ]
 }
