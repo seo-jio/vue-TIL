@@ -12,7 +12,7 @@ sections:
     templates:
       - post
     - type: directory
-    path: docs/React
+    path: docs/react
     label: React
     create: documents
     match: '*.md'
