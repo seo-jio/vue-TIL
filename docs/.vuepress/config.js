@@ -1,6 +1,8 @@
 const { description } = require('../../package')
 
 module.exports = {
+    base: '/vue-TIL/',
+    //io로 레포 생성을 안했기 떄문에
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
